@@ -1,4 +1,8 @@
 .DS_Store
+.vscode/
+authentication.js
 node_modules
-.tmp
+npm_modules
+notes/
+**/*-todo.md
 npm-debug.log
